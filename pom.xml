@@ -11,7 +11,7 @@
 	<artifactId>falsework-cache</artifactId>
 	<packaging>jar</packaging>
 
-	<name>falsework-cache</name>
+	<name>Falsework Cache Support</name>
 	
 	<build>
 		<plugins>
